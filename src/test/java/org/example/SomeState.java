@@ -24,6 +24,6 @@ public class SomeState implements Disposable, Startable {
 
     @Override
     public void stop() {
-        System.out.println("Stoped");
+        System.out.println("Stopped");
     }
 }
